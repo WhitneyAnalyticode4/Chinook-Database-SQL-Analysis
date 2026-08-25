@@ -307,3 +307,6 @@ Execution plan review
 Project Outcome
 
 The Chinook database project provided practical experience in using SQL Server to explore relational data, connect multiple tables, perform business-focused analysis, and optimize queries. It also strengthened my understanding of how SQL can be used to move from individual database tables to meaningful analysis and business insights.
+
+## Project Demo
+<video src="Chinook-Video.MOV" controls width="100"></video>
